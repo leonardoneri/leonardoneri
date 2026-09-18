@@ -1,12 +1,12 @@
-# Olá, sou Leonardo Neri
+# Hi, I’m Leonardo Neri
 
 **Software Engineer | Full Stack Developer**
 
-Atuo no desenvolvimento de aplicações web e mobile, integrações e automações. Minha trajetória começou em análise de sistemas e operações, investigando incidentes e desenvolvendo soluções para problemas dos usuários, e evoluiu para engenharia de software.
+I build web and mobile applications, integrations, and process automations. I started my career in systems analysis and operations, investigating incidents and solving user issues before moving into software engineering.
 
-Tenho experiência com frontend e backend, combinando desenvolvimento, análise de dados e colaboração entre equipes técnicas e de atendimento.
+I work across frontend and backend development, combining software development, data analysis, and collaboration with engineering and support teams.
 
-### Tecnologias
+### Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />&nbsp;&nbsp;
@@ -18,13 +18,13 @@ Tenho experiência com frontend e backend, combinando desenvolvimento, análise 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
 </p>
 
-- **Frontend e mobile:** React, React Native, TypeScript, styled-components e Tailwind CSS.
-- **Backend:** Node.js, Python, APIs REST e RabbitMQ.
-- **Dados e cloud:** SQL, MongoDB, SQLite, AWS (DynamoDB e Athena) e Apache Airflow.
-- **Ferramentas:** Git, GitHub e Datadog.
+- **Frontend & mobile:** React, React Native, TypeScript, styled-components, and Tailwind CSS.
+- **Backend:** Node.js, Python, REST APIs, and RabbitMQ.
+- **Data & cloud:** SQL, MongoDB, SQLite, AWS (DynamoDB and Athena), and Apache Airflow.
+- **Tools:** Git, GitHub, and Datadog.
 
-### Sobre mim
+### About me
 
-Gosto de entender como os sistemas funcionam, investigar problemas e transformar processos manuais em soluções que facilitem o dia a dia.
+I enjoy understanding how systems work, investigating problems, and turning manual processes into solutions that make everyday work easier.
 
-São Paulo, Brasil · [LinkedIn](https://www.linkedin.com/in/leonardo-neri-25b409171/)
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/leonardo-neri-25b409171/)
